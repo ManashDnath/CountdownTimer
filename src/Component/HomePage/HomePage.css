@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+  }
+  
+  .text {
+    color: #ae00ff;
+    font-bold: 600;
+  }
+  

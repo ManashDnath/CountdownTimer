@@ -1,0 +1,19 @@
+.input-date-border {
+    border-radius: 5px;
+    width: 15rem;
+    height: 2rem;
+    padding: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .button-start {
+    padding: 0.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .container-input {
+    display: flex;
+    flex-direction: column;
+  }
+  
